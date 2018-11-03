@@ -8,7 +8,7 @@
 ## Instructions
 
 1. Fork and clone this lab, run the test suite with the `learn` command to get started. 
-2. You'll be filling out the content of a series of methods that we've defined for you. All of the methods expect you to operate on the `programmer_hash` object, which we've already defined and included in the body of each method. Use the test suite to guide you—each test is designed to tell you how to pass it. 
+2. You'll be filling out the content of a series of methods that we've defined for you. All of the methods expect you to operate on the `programmer_hash` object, which we've already defined and included in the body of each method. Use the test suite to guide yhttps://learn.co/tracks/online-software-engineering-part-time/procedural-ruby/data-structures/multitype-collections-lab#ou—each test is designed to tell you how to pass it. 
 
 Keep in mind that you are expected to get these tests to pass by adding or changing information in the hash *programmatically*. In other words, if you're asked to, for example, change the value of a certain hash key, *don't just re-write the hash with the new value!* Use the methods we've learned and practiced in previous lessons.
 
