@@ -23,7 +23,7 @@ describe "nested hash" do
 
   describe "#adding_matz" do 
     it "operates on the programmer_hash and adds a key/value pair to the top level of the hash, returning the newly-added-to hash" do 
-      expect(adding_matz.key).to include(:yukihiro_matsumoto)
+      expect(adding_matz).to include(:yukihiro_matsumoto)
     end
   end
 
